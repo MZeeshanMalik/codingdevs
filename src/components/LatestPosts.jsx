@@ -1,5 +1,5 @@
 import React from "react";
-import { PostCard, PostGrid, Section } from "./cardComponent";
+import { PostCard, PostGrid, Section } from "./CardComponent";
 
 function LatestPosts(props) {
   return (
