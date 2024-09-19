@@ -3,6 +3,7 @@ import {
   CommunityGrid,
   Container,
   HeroSection,
+  LogoGrid,
   MemberCard,
   Section,
 } from "./cardcomponentStyles";
@@ -27,7 +28,6 @@ const CardComponent = () => {
         <CommunityGrid>
           <MemberCard>
             <img src="../images/pic1.jpg" />
-
             <h4>Alice Wong</h4>
             <span>Role: Community Manager</span>
             <p>Passionate about fostering connections and growth.</p>
