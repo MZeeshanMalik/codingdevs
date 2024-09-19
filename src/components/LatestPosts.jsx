@@ -1,7 +1,6 @@
-import React from "react";
-import { PostCard, PostGrid, Section } from "./CardComponent";
+import { PostCard, PostGrid, Section } from "./cardcomponentStyles";
 
-function LatestPosts(props) {
+function LatestPosts() {
   return (
     <div>
       <Section>
